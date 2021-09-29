@@ -1,3 +1,29 @@
 İdil Atmaca - 22002491 - https://github.com/idiltmc
 sims 4
+commit 5849fe21e405d8a12ae2017c036ffbe8c61641ab (HEAD -> main, origin/main, origin/HEAD)
+Merge: 1cfb8c4 fc1a7f3
+Author: idiltmc <91607682+idiltmc@users.noreply.github.com>
+Date:   Wed Sep 29 19:02:23 2021 +0300
+
+    Merge pull request #1 from idiltmc/new_information
+
+    added favorite game
+
+commit fc1a7f36a1f847d65e96df4036cf5b53b4896fb2 (origin/new_information, new_information)
+Author: idil <idil.atmaca@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 19:00:42 2021 +0300
+
+    added favorite game
+
+commit 1cfb8c4b421ce77de933c6bf68bddd1172463066
+Author: idil <idil.atmaca@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 18:52:00 2021 +0300
+
+    idil_atmaca updated info.txt
+
+commit 69bedec10cbc39b2b845fee09c7e42253ee407c2
+Author: idiltmc <91607682+idiltmc@users.noreply.github.com>
+Date:   Wed Sep 29 18:42:20 2021 +0300
+
+    Create README.md
 
